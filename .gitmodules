@@ -1,0 +1,6 @@
+[submodule "submodule_test"]
+	path = submodule_test
+	url = https://github.com/akshay27-01/submodule_test.git
+[submodule "nodejswithmongodb"]
+	path = nodejswithmongodb
+	url = https://github.com/khushalkunjir/nodejswithmongodb.git
